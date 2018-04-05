@@ -47,6 +47,11 @@
 	</dict>
 	<key>Devices</key>
 	<dict>
+		<key>Audio</key>
+		<dict>
+			<key>Inject</key>
+			<string>1</string>
+		</dict>
 		<key>FakeID</key>
 		<dict>
 			<key>IntelGFX</key>
