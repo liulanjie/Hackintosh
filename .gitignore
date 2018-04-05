@@ -1,2 +1,8 @@
+._*.plist
 APPLE
 CLOVER/._config.plist
+CLOVER/OEM
+CLOVER/ROM
+CLOVER/doc
+CLOVER/ACPI
+CLOVER/misc

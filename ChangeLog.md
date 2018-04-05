@@ -6,6 +6,7 @@ ChangeLog
 - Add HD630 Fake ID: 0x59128086, 0x59120000
 - Delete VoodooHDA.kext
 - Add AppleALC.kext, version 1.2.4
+- Add theme Clover Minimal Theme
 
 ### 2018-04-01
 - Update IntelGraphicsFixup.kext, version 1.2.6

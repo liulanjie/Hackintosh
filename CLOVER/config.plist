@@ -68,7 +68,7 @@
 		<key>Language</key>
 		<string>en:0</string>
 		<key>Theme</key>
-		<string>embedded</string>
+		<string>clover-theme-minimal</string>
 	</dict>
 	<key>Graphics</key>
 	<dict>
