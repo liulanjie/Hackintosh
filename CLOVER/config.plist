@@ -20,7 +20,7 @@
 	<key>Boot</key>
 	<dict>
 		<key>Arguments</key>
-		<string>-disablegfxfirmware</string>
+		<string>igfxfw=1</string>
 		<key>Timeout</key>
 		<integer>5</integer>
 	</dict>
