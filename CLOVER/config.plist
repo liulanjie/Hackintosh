@@ -8,33 +8,12 @@
 		<dict>
 			<key>DropOEM_DSM</key>
 			<true/>
-			<key>Patches</key>
-			<array>
-				<dict>
-					<key>Comment</key>
-					<string>change PEGP to GFX0</string>
-					<key>Disabled</key>
-					<false/>
-					<key>Find</key>
-					<data>
-					UEVHUA==
-					</data>
-					<key>Replace</key>
-					<data>
-					R0ZYMA==
-					</data>
-				</dict>
-			</array>
 		</dict>
 		<key>DropTables</key>
 		<array>
 			<dict>
 				<key>Signature</key>
 				<string>MATS</string>
-			</dict>
-			<dict>
-				<key>Signature</key>
-				<string>MCFG</string>
 			</dict>
 		</array>
 	</dict>
