@@ -8,6 +8,7 @@ ChangeLog
 - Add AppleALC.kext, version 1.2.4
 - Add theme Clover Minimal Theme
 - Update CLover, version 4427
+- Update FakeSMC.kext series, version RehabMan 2018-0403
 
 ### 2018-04-01
 - Update IntelGraphicsFixup.kext, version 1.2.6
