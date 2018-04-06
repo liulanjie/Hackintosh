@@ -1,10 +1,11 @@
 ._*
 APPLE
 CLOVER/*
+Clover_Install_Log.txt
 
 !CLOVER/drivers64UEFI
 !CLOVER/kexts
-!CLOVER/themes
+!CLOVER/themes/clover-theme-minimal
 !CLOVER/tools
 !CLOVERX64.efi
 !config.plist

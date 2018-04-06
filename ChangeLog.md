@@ -7,6 +7,7 @@ ChangeLog
 - Delete VoodooHDA.kext
 - Add AppleALC.kext, version 1.2.4
 - Add theme Clover Minimal Theme
+- Update CLover, version 4427
 
 ### 2018-04-01
 - Update IntelGraphicsFixup.kext, version 1.2.6
