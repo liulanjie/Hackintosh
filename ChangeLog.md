@@ -1,6 +1,12 @@
 ChangeLog
 =========
 
+### 2018-04-11
+- Update Lilu.kext, version 1.2.3
+- Update IntelGraphicsFixup.kext, version 1.2.7
+- Add Shiki.kext, version 2.2.6
+- Update AppleALC.kext, version 1.2.6
+
 ### 2018-04-06
 - Add Shiki.kext, version 2.2.5
 - Add HD630 Fake ID: 0x59128086, 0x59120000
@@ -17,3 +23,5 @@ ChangeLog
 - Add FakeSMC.kext series, version RehabMan 2017-1017
 - Update apfs.efi, version 10.13.4
 - Update VoodooHDA.kext, version 2.9.1
+
+
