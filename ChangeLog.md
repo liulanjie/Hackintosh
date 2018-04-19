@@ -1,6 +1,9 @@
 ChangeLog
 =========
 
+### 2018-04-19
+- Update CLover, version 4439
+
 ### 2018-04-11
 - Update Lilu.kext, version 1.2.3
 - Update IntelGraphicsFixup.kext, version 1.2.7
