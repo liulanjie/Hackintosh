@@ -1,6 +1,11 @@
 ChangeLog
 =========
 
+### 2018-07-28
+- Update Lilu.kext, version 1.2.5
+- Replace Shiki.kext and IntelGraphicsFixup.kext with WhateverGreen, version 1.2.0
+- Update AppleALC.kext, version 1.3.0
+
 ### 2018-04-19
 - Update CLover, version 4458
 
