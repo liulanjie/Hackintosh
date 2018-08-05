@@ -1,5 +1,7 @@
 ChangeLog
 =========
+### 2018-08-05
+- Enable TRIM for SSD
 
 ### 2018-07-28
 - Update Lilu.kext, version 1.2.5
