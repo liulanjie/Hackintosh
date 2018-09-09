@@ -19,10 +19,8 @@
 	</dict>
 	<key>Boot</key>
 	<dict>
-		<key>Arguments</key>
-		<string>igfxfw=1</string>
 		<key>Timeout</key>
-		<integer>5</integer>
+		<integer>3</integer>
 	</dict>
 	<key>Devices</key>
 	<dict>

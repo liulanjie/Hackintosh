@@ -1,5 +1,11 @@
 ChangeLog
 =========
+### 2018-09-09
+- Update Lilu.kext, version 1.2.6
+- Update AppleALC.kext, version 1.3.1
+- Update WhateverGreen.kext, version 1.2.1
+- Update CLover, version 4658
+
 ### 2018-08-05
 - Enable TRIM for SSD
 - Update CLover, version 4630
