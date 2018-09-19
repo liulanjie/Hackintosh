@@ -1,5 +1,12 @@
 ChangeLog
 =========
+
+### 2018-09-20
+- Update Lilu.kext, version 1.2.7
+- Update AppleALC.kext, version 1.3.2
+- Update WhateverGreen.kext, version 1.2.2
+- Update FakeSMC.kext series, version RehabMan 2018-0915
+
 ### 2018-09-09
 - Update Lilu.kext, version 1.2.6
 - Update AppleALC.kext, version 1.3.1
