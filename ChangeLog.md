@@ -1,6 +1,12 @@
 ChangeLog
 =========
 
+### 2018-11-27
+- Update Lilu.kext, version 1.2.8
+- Update AppleALC.kext, version 1.3.3
+- Update WhateverGreen.kext, version 1.2.4
+- Update CLover, version 4769
+
 ### 2018-10-07
 - Update WhateverGreen.kext, version 1.2.3
 - Update CLover, version 4674
