@@ -1,5 +1,12 @@
 ChangeLog
 =========
+
+### 2019-0307
+- Update CLover, version 5058 (move drivers64UEFI to drivers/UEFI)
+- Update Lilu.kext, version 1.3.8
+- Update AppleALC.kext, version 1.4.0
+- Update WhateverGreen.kext, version 1.3.1
+
 ### 2019-0307
 - Update Lilu.kext, version 1.3.4
 - Update WhateverGreen.kext, version 1.2.6
