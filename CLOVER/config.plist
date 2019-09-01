@@ -29,11 +29,6 @@
 			<key>Inject</key>
 			<integer>1</integer>
 		</dict>
-		<key>FakeID</key>
-		<dict>
-			<key>IntelGFX</key>
-			<string>0x59128086</string>
-		</dict>
 		<key>USB</key>
 		<dict>
 			<key>FixOwnership</key>
@@ -46,16 +41,6 @@
 		<string>en:0</string>
 		<key>Theme</key>
 		<string>clover-theme-minimal</string>
-	</dict>
-	<key>Graphics</key>
-	<dict>
-		<key>Inject</key>
-		<dict>
-			<key>Intel</key>
-			<true/>
-		</dict>
-		<key>ig-platform-id</key>
-		<string>0x59120000</string>
 	</dict>
 	<key>KernelAndKextPatches</key>
 	<dict>
@@ -115,17 +100,17 @@
 	<key>SMBIOS</key>
 	<dict>
 		<key>BiosReleaseDate</key>
-		<string>09/17/2018</string>
+		<string>06/17/2019</string>
 		<key>BiosVendor</key>
 		<string>Apple Inc.</string>
 		<key>BiosVersion</key>
-		<string>IM181.88Z.F000.B00.1809171524</string>
+		<string>IM181.88Z.F000.B00.1906171613</string>
 		<key>Board-ID</key>
 		<string>Mac-4B682C642B45593E</string>
 		<key>BoardManufacturer</key>
 		<string>Apple Inc.</string>
 		<key>BoardSerialNumber</key>
-		<string>C02653501CDH69FA8</string>
+		<string>C02704700GUH69FAD</string>
 		<key>BoardType</key>
 		<integer>10</integer>
 		<key>BoardVersion</key>
@@ -137,7 +122,7 @@
 		<key>ChassisType</key>
 		<string>0x09</string>
 		<key>EfiVersion</key>
-		<string>165.0.0.0.0</string>
+		<string>175.0.0.0.0</string>
 		<key>Family</key>
 		<string>iMac</string>
 		<key>FirmwareFeatures</key>
@@ -155,9 +140,9 @@
 		<key>ProductName</key>
 		<string>iMac18,1</string>
 		<key>SerialNumber</key>
-		<string>C02T1PZPH7JY</string>
+		<string>C02T5LYNH7JY</string>
 		<key>SmUUID</key>
-		<string>C66BD76A-498B-4F7E-98DB-26C76D5931F0</string>
+		<string>6F6AB43A-5381-4F3B-9F40-54429B825FF5</string>
 		<key>Version</key>
 		<string>1.0</string>
 	</dict>
