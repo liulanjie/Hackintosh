@@ -1,11 +1,20 @@
 ChangeLog
 =========
 
-### 2019-0307
+### 2019-0901
 - Update CLover, version 5058 (move drivers64UEFI to drivers/UEFI)
 - Update Lilu.kext, version 1.3.8
 - Update AppleALC.kext, version 1.4.0
 - Update WhateverGreen.kext, version 1.3.1
+- Replace FakeSMC.kext with VirtualSMC, version 1.0.7
+    - DEL CLOVER/drivers/UEFI/SMCHelper.efi
+    - DEL CLOVER/kexts/Other/FakeSMC.kext
+    - ADD CLOVER/drivers/UEFI/VirtualSmc.efi
+    - ADD CLOVER/kexts/Other/VirtualSMC.kext
+    - ADD CLOVER/kexts/Other/SMCBatteryManager.kext
+    - ADD CLOVER/kexts/Other/SMCLightSensor.kext
+    - ADD CLOVER/kexts/Other/SMCProcessor.kext
+    - ADD CLOVER/kexts/Other/SMCSuperIO.kext
 
 ### 2019-0307
 - Update Lilu.kext, version 1.3.4
