@@ -1,7 +1,7 @@
 ChangeLog
 =========
 
-### 2019-0901
+### 2019-09-01
 - Update CLover, version 5058 (move drivers64UEFI to drivers/UEFI)
 - Update Lilu.kext, version 1.3.8
 - Update AppleALC.kext, version 1.4.0
@@ -16,7 +16,7 @@ ChangeLog
     - ADD CLOVER/kexts/Other/SMCProcessor.kext
     - ADD CLOVER/kexts/Other/SMCSuperIO.kext
 
-### 2019-0307
+### 2019-03-07
 - Update Lilu.kext, version 1.3.4
 - Update WhateverGreen.kext, version 1.2.6
 - Update AppleALC.kext, version 1.3.5
