@@ -1,6 +1,12 @@
 ChangeLog
 =========
 
+### 2019-10-10
+- Update CLover, version 5070
+- Update AppleALC.kext, version 1.4.2
+- Update WhateverGreen.kext, version 1.3.3
+- Replace FakeSMC.kext with VirtualSMC, version 1.0.8
+
 ### 2019-09-01
 - Update CLover, version 5058 (move drivers64UEFI to drivers/UEFI)
 - Update Lilu.kext, version 1.3.8
