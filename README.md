@@ -26,7 +26,7 @@ See [ChangeLog][1]
     - [WhateverGreen][9]
     - [VirtualSMC][10]
 - @[Mieze][11] for [RealtekRTL8111][12]
-- @[RehabMan][13] for [FakeSMC][14]
+- ~~@[RehabMan][13] for [FakeSMC][14]~~
 - @[Alex James][15] for [Clover Minimal Theme][16]
 - [Clover Configurator][17]
 
